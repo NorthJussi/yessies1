@@ -26,7 +26,7 @@
   --cyan: #1289A7;
   --white: #fff;
   --gray: #6c757d;
-  --gray-dark: #1b1b1b;
+  --gray-dark: #169da1;
   --primary: #22b9a5;
   --secondary: #6c757d;
   --success: #6ab04c;
@@ -54,7 +54,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgba(29, 151, 151, 0);
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -67,7 +67,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #444444;
+  color: #179aac;
   text-align: left;
   background-color: #ffffff;
 }
